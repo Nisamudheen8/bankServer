@@ -1,0 +1,38 @@
+node - server / back end technology
+
+   basic commands 
+---------------------
+1. create package.json - npm init
+
+2. install express - npm i express 
+
+3. install JWT token - npm insatll jsonwebtoken
+
+    basic steps
+---------------------
+1. create package. json 
+
+2. install express 
+
+3. create index.js file 
+
+4. import express 
+
+5. server app creation using express 
+
+6. setup port number 
+
+8. response status codes
+    1xx - information
+    2xx - succes
+    3xx - redirection
+    4xx - client side error
+    5xx - server side error
+
+9. JWT Token - user validation
+    9.1 Token generation - sign()
+    9.2 Token verify - verify()
+
+10. Middleware - 
+    10.1 Application specific
+    10.2 Router specific
